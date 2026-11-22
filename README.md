@@ -28,7 +28,7 @@ Beyond our primary AOSP distribution, our team develops and maintains open-sourc
 
 * **[Aosp Builder for Crave]** (https://github.com/sounddrill31/crave_aosp_builder) — Automated Builder for Crave.io.
 * **[Website(Guides)]** (https://github.com/FOSSonTop/website) — Website with guides on Aosp and more.
-* **[Project / Tool 3]** (`[repo-link]`) — [Brief 1-line description, e.g., Automated build scripts, device tree templates, or recovery builds (TWRP/OrangeFox).]
+* More Soon...
 
 ---
 
@@ -38,8 +38,8 @@ Open-source Linux ports, rootfs builds, and mainline kernel initiatives maintain
 
 | Distribution | Target Hardware / Architecture | Kernel / Base | Status |
 | :--- | :--- | :--- | :--- |
-| **[Distro Name 1, e.g., postmarketOS / Ubuntu Touch / Arch ARM]** | `[Device / SoC, e.g., SDM845 / SM8250]` | Mainline `[6.x]` | Active |
-| **[Distro Name 2]** | `[Device / Architecture, e.g., aarch64]` | `[Kernel / Base]` | Experimental |
+| **ARC-Forge Linux** | PC and Desktop| Based on Debian | Active |
+| **New-Core** | PC and Desktop  | Experimental |
 
 ---
 
@@ -48,15 +48,14 @@ Open-source Linux ports, rootfs builds, and mainline kernel initiatives maintain
 The developers and device maintainers behind Team_Orbit:
 
 ### Core Leadership & Infrastructure
-* **[@ShadowArX](https://github.com/ShadowArX)** — ROM/Kernel/Tools Developer 
-* **[@Sounddrill](https://github.com/sounddrill31)** — Bring-up Lead (Github actions,website)
-* **[@username3](https://github.com/Insyde_Arc)** — Linux Ports & Maintainer
+* **[@ShadowArX](https://github.com/ShadowArX)** — ROM/Kernel/Tools Developer - Realme C2 | Oppo A1k
+* **[@Sounddrill](https://github.com/sounddrill31)** — Bring-up Lead (Github actions,website) - Xiaomi 11T (Would be)
+* **[@Insyde-ARC](https://github.com/Insyde-ARC64)** — Linux Ports & Maintainer - A21s
 
 ### Device Maintainers
-* **[@maintainer1](https://github.com/maintainer1)** — `[Device Name 1]` (`[codename1]`)
-* **[@maintainer2](https://github.com/maintainer2)** — `[Device Name 2]` (`[codename2]`)
-* **[@maintainer3](https://github.com/maintainer3)** — `[Device Name 3]` (`[codename3]`)
-and even more...([![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/ROM_builders)
+* **[@Perspective2077](https://github.com/perspective2077)** - Moto G54 | G64
+* **[@KoushikDey2003](https://github.com/Koushikdey2003)** Realme C3 | Narzo 10A
+and even more in - [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/ROM_builders)
 ---
 
 ## 🤝 Infrastructure & Sponsors
