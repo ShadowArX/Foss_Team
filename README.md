@@ -13,10 +13,10 @@ Everything Open source
 
 Official builds and device trees maintained by our team:
 
-| Brand | Device Name | Codename | Android Version | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| Realme | [C3 / Narzo 10A] | RMX2020,RMX2027 | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/rc3n10aupdates)
-| Xiaomi | 11T Pro | vili | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/Xiaomi11TPro_Official)
+| Brand | Device Name | Codename | Android Version | Status | Telegram |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Realme | [C3 / Narzo 10A] | RMX2020,RMX2027 | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/rc3n10aupdates) |
+| Xiaomi | 11T Pro | vili | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/Xiaomi11TPro_Official) |
 | [Brand] | [Device Model 3] | `[codename3]` | Android [15/16] | Active |
 | [Brand] | [Device Model 4] | `[codename4]` | Android [14/15] | Legacy/Active |
 
