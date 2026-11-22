@@ -3,8 +3,6 @@
 Everything Open source
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://fosson.top)
-[![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/yourchannel)
-[![Downloads](https://img.shields.io/badge/Downloads-Releases-success?style=flat-square)](https://github.com/your-org/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
 
 ---
