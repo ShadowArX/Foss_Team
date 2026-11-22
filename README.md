@@ -15,19 +15,19 @@ Official builds and device trees maintained by our team:
 
 | Brand | Device Name | Codename | Android Version | Status | Telegram |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Realme | [C3 / Narzo 10A] | RMX2020,RMX2027 | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/rc3n10aupdates) |
+| Realme | C3 / Narzo 10A | RMX2020,RMX2027 | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/rc3n10aupdates) | 
 | Xiaomi | 11T Pro | vili | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/Xiaomi11TPro_Official) |
-| [Brand] | [Device Model 3] | `[codename3]` | Android [15/16] | Active |
-| [Brand] | [Device Model 4] | `[codename4]` | Android [14/15] | Legacy/Active |
-
+| Samsung | A21s | a217F,a217M | Android [15/16] | To be Maintained | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/sGalaxyA21s) |
+| Realme | C2/Oppo A1k | RMX1941 | Android [12/13] | Legacy/Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/realmec2update) |
+| Motorola | G54,G64 | Cancunf | Android [15,16] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/cancunf)
 ---
 
 ## 🛠️ Other Projects
 
 Beyond our primary AOSP distribution, our team develops and maintains open-source tools and utilities for the Android ecosystem:
 
-* **[Project / Tool 1]** (`[repo-link]`) — [Brief 1-line description, e.g., Custom kernel source with upstream Linux LTS merges and wireguard support.]
-* **[Project / Tool 2]** (`[repo-link]`) — [Brief 1-line description, e.g., Lightweight OTA updater backend and JSON manifest generator for custom ROMs.]
+* **[Aosp Builder for Crave]** (https://github.com/sounddrill31/crave_aosp_builder) — Automated Builder for Crave.io.
+* **[Website(Guides)]** (https://github.com/FOSSonTop/website) — Website with guides on Aosp and more.
 * **[Project / Tool 3]** (`[repo-link]`) — [Brief 1-line description, e.g., Automated build scripts, device tree templates, or recovery builds (TWRP/OrangeFox).]
 
 ---
