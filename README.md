@@ -47,7 +47,7 @@ The developers and device maintainers behind Team_Orbit:
 
 ### Core Leadership & Infrastructure
 * **[@ShadowArX](https://github.com/ShadowArX)** — ROM/Kernel/Tools Developer - Realme C2 | Oppo A1k
-* **[@Sounddrill](https://github.com/sounddrill31)** — Bring-up Lead (Github actions,website) - Xiaomi 11T (Would be)
+* **[@Sounddrill](https://github.com/sounddrill31)** — Bring-up Lead (Github actions,website) 
 * **[@Insyde-ARC](https://github.com/Insyde-ARC64)** — Linux Ports & Maintainer - A21s
 
 ### Device Maintainers
