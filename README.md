@@ -48,8 +48,8 @@ Open-source Linux ports, rootfs builds, and mainline kernel initiatives maintain
 The developers and device maintainers behind Team_Orbit:
 
 ### Core Leadership & Infrastructure
-* **[@username1](https://github.com/ShadowArX)** — ROM/Kernel/Tools Developer 
-* **[@username2](https://github.com/username2)** — Bring-up Lead (Github actions,website)
+* **[@ShadowArX](https://github.com/ShadowArX)** — ROM/Kernel/Tools Developer 
+* **[@Sounddrill](https://github.com/sounddrill31)** — Bring-up Lead (Github actions,website)
 * **[@username3](https://github.com/Insyde_Arc)** — Linux Ports & Maintainer
 
 ### Device Maintainers
