@@ -55,8 +55,7 @@ The developers and device maintainers behind Team_Orbit:
 ### Device Maintainers
 * **[@Perspective2077](https://github.com/perspective2077)** - Moto G54 | G64
 * **[@KoushikDey2003](https://github.com/Koushikdey2003)** Realme C3 | Narzo 10A
-* 
-and even more in - [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/ROM_builders)
+  and even more in - [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/ROM_builders)
 ---
 
 ## 🤝 Infrastructure & Sponsors
