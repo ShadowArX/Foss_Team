@@ -16,7 +16,7 @@ Official builds and device trees maintained by our team:
 | Brand | Device Name | Codename | Android Version | Status | Telegram | Users |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Realme | C3 / Narzo 10A | RMX2020,RMX2027 | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/rc3n10aupdates) | 2000+ |
-| Xiaomi | 11T Pro | vili | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/Xiaomi11TPro_Official) | 4000+ |
+| Xiaomi | 11T Pro | vili | Android [15/16/17] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/Xiomi11TProUpdates) | 4000+ |
 | Samsung | A21s | a217F,a217M | Android [15/16] | To be Maintained | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/sGalaxyA21s) | 500+ |
 | Realme | C2/Oppo A1k | RMX1941 | Android [12/13] | Legacy/Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/realmec2update) | 1000+ |
 | Motorola | G54,G64 | Cancunf | Android [15,16] | Active | [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/cancunf) | 1000+ |
