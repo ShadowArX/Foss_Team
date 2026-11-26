@@ -58,6 +58,4 @@ The developers and device maintainers behind Team_Orbit:
   and even more in - [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram)](https://t.me/ROM_builders)
 ---
 
-## 🤝 Infrastructure & Sponsors
 
-* **Build & Release Infrastructure:** Generously powered by **[BlueServers](https://blueservers.com)** under their Free Servers for Open Source & Social Projects program.
